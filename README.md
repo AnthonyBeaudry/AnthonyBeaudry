@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthony Beaudry
-- 👀 I’m interested in applications of artificial intelligence
+- 👀 I’m interested in applications of artificial intelligence, machine learning and competitive programming.
 - 🌱 I’m currently learning Computer Science
 
 <!---
